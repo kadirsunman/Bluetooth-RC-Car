@@ -1,5 +1,7 @@
 ## The Car Which Is Controlled With Bluetooth Via Android Application
 
+[RC Car](https://play.google.com/store/search?q=mechastudios&gl=TR)
+
 This project is a library for the Arduino platform. It provides the car
 to be controlled with bluetooth connection via android application easily.
 
@@ -56,5 +58,5 @@ BTR.getGearBox(); // **Bool** cinsinden değişken döndürür.
 BTR.getHandBrake(); // **Bool** cinsinden değişken döndürür.
 
 #### Joystick bilgisi için kullanılan komut:
-BTR.getAngle(); // **Integer**(Tam sayı) cinsinden değişken döndürür.
+BTR.getAngle(); // **Integer** (Tam sayı) cinsinden değişken döndürür.
 
