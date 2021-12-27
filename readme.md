@@ -44,17 +44,17 @@ BTR.begin(baudrate); // x -> 9600, 19200, 38400 ... vb.
 BTR.start();
 
 #### Korna bilgisi için kullanılan komut:
-BTR.getHorn(); // Bool cinsinden değişken döndürür.
+BTR.getHorn(); // **Bool** cinsinden değişken döndürür.
 
 #### Lamba bilgisi için kullanılan komut:
-BTR.getLamp(); // Bool cinsinden değişken döndürür.
+BTR.getLamp(); // **Bool** cinsinden değişken döndürür.
 
 #### Vites bilgisi için kullanılan komut:
-BTR.getGearBox(); // Bool cinsinden değişken döndürür.
+BTR.getGearBox(); // **Bool** cinsinden değişken döndürür.
 
 #### El freni bilgisi için kullanılan komut:
-BTR.getHandBrake(); // Bool cinsinden değişken döndürür.
+BTR.getHandBrake(); // **Bool** cinsinden değişken döndürür.
 
 #### Joystick bilgisi için kullanılan komut:
-BTR.getAngle(); // Integer(Tam sayı) cinsinden değişken döndürür.
+BTR.getAngle(); // **Integer**(Tam sayı) cinsinden değişken döndürür.
 
