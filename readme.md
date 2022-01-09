@@ -22,27 +22,29 @@ BTR.start();
 ```
 
 #### Command to horn data: 
-``` BTR.getHorn(); ```// returns a **Bool** variable
+``` 
+BTR.getHorn(); // returns a "Bool" variable
+```
 
 
 #### Command to lamp data:
 ```
-BTR.getLamp(); // returns a **Bool** variable
+BTR.getLamp(); // returns a "Bool" variable
 ```
 
 #### Command to gearbox data:
 ```
-BTR.getGearBox(); // returns a **Bool** variable
+BTR.getGearBox(); // returns a "Bool" variable
 ```
 
 #### Command to handbrake data:
 ```
-BTR.getHandBrake(); // returns a **Bool** variable
+BTR.getHandBrake(); // returns a "Bool" variable
 ```
 
 #### Command to joystick data:
 ```
-BTR.getAngle(); // returns a **Integer** variable.
+BTR.getAngle(); // returns a "Integer" variable.
 ```
 
 ## Android Uygulama Üzerinden Bluetooth İle Kontrol Edilen Araba
@@ -71,25 +73,25 @@ BTR.start();
 
 #### Korna bilgisi için kullanılan komut:
 ```
-BTR.getHorn(); // **Bool** cinsinden değişken döndürür.
+BTR.getHorn(); // "Bool" cinsinden değişken döndürür.
 ```
 
 #### Lamba bilgisi için kullanılan komut:
 ```
-BTR.getLamp(); // **Bool** cinsinden değişken döndürür.
+BTR.getLamp(); // "Bool" cinsinden değişken döndürür.
 ```
 
 #### Vites bilgisi için kullanılan komut:
 ```
-BTR.getGearBox(); // **Bool** cinsinden değişken döndürür.
+BTR.getGearBox(); // "Bool" cinsinden değişken döndürür.
 ```
 
 #### El freni bilgisi için kullanılan komut:
 ```
-BTR.getHandBrake(); // **Bool** cinsinden değişken döndürür.
+BTR.getHandBrake(); // "Bool" cinsinden değişken döndürür.
 ```
 
 #### Joystick bilgisi için kullanılan komut:
 ```
-BTR.getAngle(); // **Integer** (Tam sayı) cinsinden değişken döndürür.
+BTR.getAngle(); // "Integer" (Tam sayı) cinsinden değişken döndürür.
 ```
