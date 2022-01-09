@@ -7,7 +7,7 @@ This project is a library for the Arduino platform. It provides the car
 to be controlled with bluetooth connection via android application easily.
 
 #### Command to identify the bluetooth module connected to Arduino:
-``` C++
+```
 BTReceiver BTR(Rx,Tx); // Rx, Tx -> they are connected digital pins.
 ```
 
