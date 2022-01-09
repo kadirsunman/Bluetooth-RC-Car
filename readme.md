@@ -22,9 +22,8 @@ BTR.start();
 ```
 
 #### Command to horn data: 
-```
-BTR.getHorn(); // returns a ** Bool ** variable
-```
+``` BTR.getHorn(); ```// returns a **Bool** variable
+
 
 #### Command to lamp data:
 ```
